@@ -1,7 +1,7 @@
 <!-- HEADER WITH ANIMATION -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
-  Hi, I'm <span style="color:#38BDF8;">Devashish</span> 👨‍💻
+  Hi, I'm <span style="color:#38BDF8;">Ayan</span> 👨‍💻
 </h1>
 
 <h3 align="center">
@@ -11,9 +11,9 @@
 ---
 
 ## 📖 About Me  
-- 💻 **B.Sc CA & IT Student** | Graduating 2025  
+- 💻 **B.C.A & IT Student** | Graduating 2025  
 - 🌱 Learning **Django, React, ASP.NET, VB.NET, MySQL, SQLite**  
-- 🎯 Goal: Become a **Full-Stack Developer** and contribute to impactful projects  
+- 🎯 Goal: Become a **Full-Stack Developer** and contribute to impactful projects 
 - ⚡ Fun fact: I love coding, music & exploring new tools  
 
 ---
